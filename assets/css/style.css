@@ -1,0 +1,25 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  color:var(--letter);
+  background-color: var(--bgscreen);
+}
+
+:root {
+  --black: #000000;
+  --white: #ffffff;
+  --bgtitle: #3c662b;
+  --bgmonth: #c7efb3;
+  --lettermonth: #2c6e0d;
+  --lettermenu: #c7efb3;
+  --line: #67bb5d;
+  --letter: #1f311d;
+  --bgscreen: #edf9e8;
+  --bgbutton: #c7efb3;
+  --addbutton: #2e9000;
+}
+
+.my-btn {
+  background-color: var(--bgbutton);
+  color: var(--letter);
+  font-weight:48px;
+}
